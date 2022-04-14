@@ -19,6 +19,7 @@
 <!-- HTML 코드 시작 -->
 <p>아래 박스는 width, height, background-color, transform을 위한 트랜지션을 결합합니다. 박스 위에 마우스를 올려 속성들의 애니메이션을 보세요.</p>
 <div class="box"></div>
+<img src="sample-image.png" alt="sample image">
 <!-- HTML 코드 끝 -->
 
 <style>
